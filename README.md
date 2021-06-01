@@ -1,2 +1,2 @@
 # python_saumya
-Divine AI Python Programs
+Divine AI Python Training 
